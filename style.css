@@ -72,3 +72,8 @@ section:nth-child(3) {
   height: 50px;
   background-color: #aaaaaa;
 }
+
+
+@media screen and (max-width: 768px) {
+
+}
