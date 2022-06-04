@@ -51,15 +51,15 @@ section:nth-child(3) {
 }
 
 .image:nth-child(1) {
-  background-image: url(../img1-9-2/flow01.png);
+  background-image: url(img1-9-2/flow01.png);
 }
 
 .image:nth-child(2) {
-  background-image: url(../img1-9-2/flow02.png);
+  background-image: url(img1-9-2/flow02.png);
 }
 
 .image:nth-child(3) {
-  background-image: url(../img1-9-2/flow03.png);
+  background-image: url(img1-9-2/flow03.png);
 }
 
 .title {
